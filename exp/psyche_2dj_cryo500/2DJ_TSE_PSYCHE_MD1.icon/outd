@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5.b.79 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2019-05-17 12:49:14.962 +0100  nmrsu@IT021842
+$$ C:\Bruker\TopSpin3.5.b.79pl6\exp\stan\nmr\par\user/2DJ_TSE_PSYCHE_MD1.icon/outd
+$$ process C:\Bruker\TopSpin3.5.b.79pl6\prog\mod\edparproc.exe
+##$CURPLOT= <Cups-PDF>
+##$CURPRIN= <$Cups-PDF>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

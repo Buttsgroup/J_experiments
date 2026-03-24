@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2026-02-06 09:57:48.922 +0000  NMR Superuser@CZC4030R51
+$$ C:\Bruker\TopSpin3.6.2\exp\stan\nmr\par\user/perfectBIRD1JhsqcDELTA5.test/acqu2
+$$ process C:\Bruker\TopSpin3.6.2\prog\mod\edparproc.exe
+##$ACQT0= 0
+##$BF1= 150.97070008
+##$FnMODE= 6
+##$NUC1= <13C>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 7548.535004
+##$ProjAngle= 0
+##$SFO1= 150.978248615004
+##$SW= 1.65586766500056
+##$SW_h= 250
+##$TD= 128
+##END=

@@ -1,0 +1,6 @@
+EXSIDE experiment using double pulse field gradient spin echo for selecetive excitation
+using a 100 Hz Rsnob.1000 shaped pulse of a length of 23320.0us and a power of 47.93 db @ 10us 90 degree proton.
+The length of the shaped pulse determines many of delayes in the pulseprograms. WATCH out for too long shaped pulses (rougly longer than 45000us are not allowed).
+The IPSO wont allow to start the experiment anyway.
+O1 in the proton dimension was set to the peak to be excited NOT the shaped pulse's frequency offset was set to the difference between the O1 and the peak frequency in Hz.
+So SPOFFS 2 = 0 because it is in the center of the spectrum. The SW width was decreased to 5 ppm (out of the blue sky value)

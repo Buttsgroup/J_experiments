@@ -1,0 +1,28 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2026-02-06 09:57:48.937 +0000  NMR Superuser@CZC4030R51
+$$ C:\Bruker\TopSpin3.6.2\exp\stan\nmr\par\user/perfectBIRD1JhsqcDELTA5.test/clevels
+$$ process C:\Bruker\TopSpin3.6.2\prog\mod\edparproc.exe
+##$LEVELS= (0..255)
+-625520.5121952 -347511.395664 -193061.88648 -107256.6036 -59587.002 -33103.89
+-18391.05 -10217.25 10217.25 18391.05 33103.89 59587.002 107256.6036 193061.88648
+347511.395664 625520.5121952 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 8
+##$METHOD= 0
+##$NEGBASE= -10217.25
+##$NEGINCR= 1.8
+##$POSBASE= 10217.25
+##$POSINCR= 1.8
+##END=

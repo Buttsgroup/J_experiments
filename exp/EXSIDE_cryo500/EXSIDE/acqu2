@@ -1,0 +1,22 @@
+##TITLE= Parameter file, TopSpin 3.5.b.79 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 8	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2025-11-19 11:55:04.602 +0000  nmrsu@IT021842
+$$ C:/Bruker/TopSpin3.5.b.79pl6/exp/stan/nmr/par/user/EXSIDE/acqu2
+$$ process C:\Bruker\TopSpin3.5.b.79pl6\prog\mod\expinstall.exe
+##$ACQT0= 0
+##$BF1= 125.777439358
+##$FnMODE= 6
+##$NUC1= <13C>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 12263.306
+##$SFO1= 125.789702664
+##$SW= 154.985333660411
+##$SW_h= 19495.5590384239
+##$TD= 1024
+##END=
