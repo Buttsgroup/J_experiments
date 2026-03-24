@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Data/2026/va/rc/enoxolone/14/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-03-24 14:22:51.476 +0000>,<nmrsu>,<CZC3047DVN>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2026-03-24 13:56:45.811 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       0E 3D 8A BD 5E 32 A1 01 9C 0B 6B BD 30 27 FC C8
+       data hash MD5: 2K * 16 * 16
+       50 5F 14 AD 4E 37 A1 65 0C 78 EC 42 E0 F2 AE 98>)
+##END=
+
+$$ hash MD5
+$$ D8 80 A5 94 EC EF 83 46 50 D4 BB 1B 12 FB F7 EF

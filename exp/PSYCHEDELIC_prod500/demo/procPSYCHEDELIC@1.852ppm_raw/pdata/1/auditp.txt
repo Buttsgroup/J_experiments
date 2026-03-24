@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Data\2026\va\rc/enoxolone/1014/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-03-24 14:22:57.311 +0000>,<nmrsu>,<CZC3047DVN>,<proc2d>,<TopSpin 3.6.2>,
+      <rser2d s23 1 from
+       14 "enoxolone" "C:\Data\2026\va\rc" 
+       data hash MD5: 2K * 16
+       3A CC 36 9A 56 82 16 0B 15 71 D5 8C 30 9C D6 5D>)
+(   2,<2026-03-24 14:23:03.254 +0000>,<nmrsu>,<CZC3047DVN>,<proc2d>,<TopSpin 3.6.2>,
+      <Unknown data manipulation detected
+       Start of raw data processing
+       xfb same F2: SI = 4K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = -111.6416 PHC1 = 0.9682789 F1: SI = 16 WDW = 4 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 4K * 16
+       0E 44 5B 19 F8 A8 44 AE 71 D6 7B EC F3 49 2C 33>)
+(   3,<2026-03-24 14:23:03.317 +0000>,<nmrsu>,<CZC3047DVN>,<proc2d>,<TopSpin 3.6.2>,
+      <tilt
+       data hash MD5: 4K * 16
+       5A CC 4C 15 73 29 AD 37 B6 2B FC 2A 6E A4 E6 9B>)
+##END=
+
+$$ hash MD5
+$$ DC 10 3F 9E 71 81 65 6B 07 36 45 09 F9 70 3A 6E

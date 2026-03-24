@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2026-03-24 13:46:42.800 +0000  nmrsu@CZC3047DVN
+$$ C:\Data\2026\va\rc/enoxolone/14/acqu2
+$$ process C:\Bruker\TopSpin3.6.2\prog\mod\edparproc.exe
+##$ACQT0= 0
+##$BF1= 500.13
+##$FnMODE= 6
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 2142.132
+##$ProjAngle= 0
+##$SFO1= 500.132142132
+##$SW= 0.0999735785563718
+##$SW_h= 50
+##$TD= 16
+##END=
