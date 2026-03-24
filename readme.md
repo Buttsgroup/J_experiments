@@ -1,4 +1,4 @@
-# Experiments to measure ^n^*J*~xy~
+# Experiments to measure $^nJ_{xy}$
 
 
 
