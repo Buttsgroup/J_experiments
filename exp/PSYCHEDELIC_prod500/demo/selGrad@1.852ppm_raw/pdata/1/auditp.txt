@@ -1,0 +1,31 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Data\2026\va\rc/enoxolone/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-03-24 13:56:17.044 +0000>,<nmrsu>,<CZC3047DVN>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2026-03-24 13:55:21.992 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       0E 3D 8A BD 5E 32 A1 01 9C 0B 6B BD 30 27 FC C8
+       data hash MD5: 64K
+       AE 95 F6 7B 80 22 7A C3 96 71 05 B0 E3 9F 89 63>)
+(   2,<2026-03-24 13:56:18.121 +0000>,<nmrsu>,<CZC3047DVN>,<proc1d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       97 F9 BF DE C8 5A FD 13 A6 D3 91 FF 74 74 7B A1>)
+(   3,<2026-03-24 13:56:18.292 +0000>,<nmrsu>,<CZC3047DVN>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       9F BB 34 7B 9D 7D 22 DE D1 80 84 A0 9C 03 92 FB>)
+(   4,<2026-03-24 13:56:21.740 +0000>,<nmrsu>,<CZC3047DVN>,<proc1d>,<TopSpin 3.6.2>,
+      <apk 
+       data hash MD5: 32K
+       A7 C8 B3 1F FA 89 37 AB CB 27 7A 69 07 25 E6 F0>)
+##END=
+
+$$ hash MD5
+$$ 8D 61 22 77 84 88 8F C6 D8 40 C8 1C 87 8A D7 AF

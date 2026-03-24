@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\Data\2026\va\rc/enoxolone/12/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-03-24 13:54:40.979 +0000>,<nmrsu>,<CZC3047DVN>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2026-03-24 13:44:23.335 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       0E 3D 8A BD 5E 32 A1 01 9C 0B 6B BD 30 27 FC C8
+       data hash MD5: 2K * 256
+       23 57 4E E4 71 47 27 73 73 72 59 24 01 65 CF E0>)
+(   2,<2026-03-24 13:55:18.747 +0000>,<nmrsu>,<CZC3047DVN>,<proc2d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       xfb F2: SI = 2K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 32.60311 PHC1 = 152.2919 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 2 FT_mod = 6 FCOR = 0.5 PHC0 = 182.0731 PHC1 = 0
+       data hash MD5: 2K * 1K
+       3E 75 CB E3 CA 78 F3 5D 55 9A 06 F8 F1 23 F2 F3>)
+##END=
+
+$$ hash MD5
+$$ B8 1E FE 7A 2C 04 2F 4F EE 49 C1 49 8F 6F 72 02
