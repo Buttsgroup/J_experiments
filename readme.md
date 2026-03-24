@@ -1,5 +1,7 @@
 # Experiments to measure $^{n}J_{xy}$
 
+A collection of experiments that can be used to measure scalar coupling constants. Validated by the Butts group, with pulse programs and parameter files included.
+
 
 
 ## $^{2/3}J_{HH}$
