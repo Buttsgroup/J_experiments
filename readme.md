@@ -2,7 +2,7 @@
 
 
 
-## $^{2/3}J_{HH}
+## $^{2/3}J_{HH}$
 | Method     | Ref | Benefits | Drawbacks |
 | -----------|-----|----|-----------|
 |TOCSY       |     |    |           |
@@ -35,7 +35,7 @@
 | -----------|-----|----|-----------|
 1. HCNMBC
 
-## ${^1/2/3}J_{FH}
+## ${^1/2/3}J_{FH}$
 | Method     | Ref | Benefits | Drawbacks |
 | -----------|-----|----|-----------|
 1. ^19^F-^13^C HMBC (no low pass filter)
